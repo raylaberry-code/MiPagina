@@ -96,6 +96,7 @@ cd MiPagina
 | Nombre | Rol | GitHub |
 |:-------|:----|:-------|
 | Raylaberry | Desarrollo y estructura del sitio | [@raylaberry-code](https://github.com/raylaberry-code) |
+| Malcom Miranda Chavez | Documentación | [@malcommiranda-glitch](https://github.com/malcommiranda-glitch) |
 
 ---
 
